@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/programacion basica 2024/U-3/S-10/tarea de funcion amiga clase etc",
+      "program": "d:/programacion basica 2024/U-3/S-10/tarea de funcion amiga clase etc/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
